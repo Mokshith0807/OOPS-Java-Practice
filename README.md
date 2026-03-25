@@ -12,10 +12,12 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 - Maintain clean and structured Java code
 
 📚 Topics Covered
-Class & Object
+
+- Class & Object
 
 
 📂 Project Included
+
 🟢 Student Management System
 
 A basic Java program that:
