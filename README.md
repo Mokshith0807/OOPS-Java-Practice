@@ -20,11 +20,6 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 🟢 Student Management System
 
-A basic Java program that:
-
-Stores student details (name, roll number, marks)
-Displays student information
-Determines pass/fail status based on marks
 🛠️ Tech Stack
 Java
 OOP Concepts
