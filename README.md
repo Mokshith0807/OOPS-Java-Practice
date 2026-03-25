@@ -20,8 +20,7 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 🟢 Student Management System
 
-🛠️ Tech Stack
-Java
-OOP Concepts
+
 👨‍💻 Author
+
 Mokshith
