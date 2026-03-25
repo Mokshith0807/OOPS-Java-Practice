@@ -4,11 +4,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 🎯 Objectives
 
 Understand core OOP principles clearly
-
 Apply concepts through coding
-
 Build a strong foundation for interviews and placements
-
 Maintain clean and structured Java code
 
 📚 Topics Covered
