@@ -15,12 +15,13 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 - Class & Object
 
+- Methods
 
 📂 Project Included
 
 🟢 Student Management System
 
-
+🟢 Bank Account System
 👨‍💻 Author
 
 Mokshith
