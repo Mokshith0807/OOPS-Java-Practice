@@ -19,6 +19,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 - MethodOverloading
 
+- Encapsulation
+
 📂 Project Included
 
 🟢 Student Management System
@@ -26,6 +28,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 🟢 Bank Account System
 
 🟢 Smart Calculator
+
+🟢 Secure Bank Account System
 
 👨‍💻 Author
 
