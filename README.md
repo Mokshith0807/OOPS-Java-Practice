@@ -21,6 +21,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 - Encapsulation
 
+- Constructors and This Keyword
+
 📂 Project Included
 
 🟢 Student Management System
@@ -30,6 +32,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 🟢 Smart Calculator
 
 🟢 Secure Bank Account System
+
+🟢 Product Management System
 
 👨‍💻 Author
 
