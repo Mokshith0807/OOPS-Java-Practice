@@ -23,6 +23,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 - Constructors and This Keyword
 
+- Static Keyword
+
 📂 Project Included
 
 🟢 Student Management System
@@ -34,6 +36,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 🟢 Secure Bank Account System
 
 🟢 Product Management System
+
+🟢 Employee ID Generator
 
 👨‍💻 Author
 
