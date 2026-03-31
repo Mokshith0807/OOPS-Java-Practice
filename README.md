@@ -25,6 +25,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 
 - Static Keyword
 
+- Inheritance
+
 📂 Project Included
 
 🟢 Student Management System
@@ -38,6 +40,8 @@ This repository contains my hands-on practice of Object-Oriented Programming (OO
 🟢 Product Management System
 
 🟢 Employee ID Generator
+
+🟢 Vehicle Management
 
 👨‍💻 Author
 
